@@ -5,13 +5,11 @@
 **Course:** Fundamentals of Software Testing  
 **University:** Laurea University of Applied Sciences  
 
----
 
 ## Project Overview
 
 This repository contains my work for the Software Testing Project in the **Fundamentals of Software Testing** course. The project involved testing a GitLab web application and creating test cases, bug reports, and reflections based on my learning.
 
----
 
 ## Repository Structure
 
@@ -34,7 +32,6 @@ This repository contains my work for the Software Testing Project in the **Funda
 - **Assignment Instructions (`.md` file)**  
   Contains the instructions provided for the software testing assignment.  
 
----
 
 ## Notes
 
